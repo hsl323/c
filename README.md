@@ -8,4 +8,4 @@
 
 + tetris : tetris를 c++로 구현 
 
-model,controller, view 로 각각 주요 알고리즘, 사용자 입력처리, 화면처리로 분할 되어 있습니다.
+  model,controller, view 로 각각 주요 알고리즘, 사용자 입력처리, 화면처리로 분할 되어 있습니다.
